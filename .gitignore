@@ -1,0 +1,5 @@
+# ignore ipynb checkpoints
+*.ipynb_checkpoint
+
+# ignore folders?
+#**__pychache__
